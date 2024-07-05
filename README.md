@@ -48,6 +48,7 @@ Ensure you have the following installed:
 
 2. **Project Structure**
 
+````project structure
 wagering-app/
 ├── assets/
 ├── components/
@@ -121,7 +122,8 @@ To run the app:
 1. Ensure the Expo server is started:
    ```bash
    expo start
-   ```
+````
+
 2. Scan the QR code using the Expo Go app on your mobile device, or use an Android/iOS simulator.
 
 ## License
