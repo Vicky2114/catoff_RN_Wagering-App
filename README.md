@@ -214,19 +214,19 @@ wagering-app/
 
 ### Home Screen
 
-![Home Screen](screenshots/home.png){:height="667px" width="375px"}
+![Home Screen](screenshots/home.png){:height="400px" width="200px"}
 
 Description of the Home Screen functionality and features.
 
 ### Profile Screen
 
-![Challenges Screen](screenshots/challenges.png){:height="667px" width="375px"}
+![Challenges Screen](screenshots/challenges.png){:height="400px" width="200px"}
 
 Description of the Challenges Screen functionality and features.
 
 ### Game Detail Screen
 
-![Game Detail Screen](screenshots/details.png){:height="667px" width="375px"}
+![Game Detail Screen](screenshots/details.png){:height="400px" width="200px"}
 
 Description of the Game Detail Screen functionality and features.
 
