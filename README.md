@@ -131,10 +131,8 @@ To run the app:
    ```bash
    expo start
 2. Scan the QR code using the Expo Go app on your mobile device, or use an Android/iOS simulator.
-
 ## License
-
 This project is licensed under the MIT License.
-
 ```vbnet
 Feel free to integrate this into your existing `README.md` file or create a new one. This section pr
+```
