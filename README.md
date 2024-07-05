@@ -73,7 +73,7 @@ wagering-app/
 │ │ └── ...
 ├── App.js
 └── ...
-```
+````
 
 ## Screens
 
